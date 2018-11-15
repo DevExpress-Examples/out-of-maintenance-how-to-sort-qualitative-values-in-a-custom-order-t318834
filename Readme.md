@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/CustomSortOrder/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CustomSortOrder/MainWindow.xaml))**
+* [NumberComparer.cs](./CS/CustomSortOrder/NumberComparer.cs) (VB: [NumberComparer.vb](./VB/CustomSortOrder/NumberComparer.vb))
+<!-- default file list end -->
 # How to sort qualitative values in a custom order
 
 
